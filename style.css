@@ -1,0 +1,25 @@
+.top-menu {
+	padding-top: 0.6em;
+}
+
+.top-menu a:link {
+	text-decoration: none;
+	background: none;
+	font-size: 1.2em;
+}
+
+.top-menu a:hover {
+	text-decoration: underline;
+}
+
+section.collection {
+	/*padding-top: 0;*/
+	padding-bottom: 0;
+}
+
+section.collection p {
+	border-bottom: 1px solid #666;
+	border-top: 1px solid #666;
+	padding-top: 0.7em;
+	padding-bottom: 0.7em;
+}
